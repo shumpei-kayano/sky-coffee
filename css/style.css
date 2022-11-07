@@ -380,6 +380,12 @@ th {
   text-align: left;
 }
 
+body {
+  font-family: Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+  font-size: 16px;
+  color: #333;
+}
+
 .header_logo {
   text-align: center;
 }
@@ -387,4 +393,12 @@ th {
   padding: 50px 0;
   width: 280px;
   height: auto;
+}
+
+.navi__ul {
+  display: flex;
+  justify-content: center;
+}
+.navi li {
+  padding: 30px 50px;
 }/*# sourceMappingURL=style.css.map */

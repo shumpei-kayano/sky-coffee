@@ -6,3 +6,13 @@
         height: auto;
     }
 }
+
+.navi {
+    &__ul {
+        display: flex;
+        justify-content: center;
+    }
+    li {
+        padding: 30px 50px;
+    }
+}
